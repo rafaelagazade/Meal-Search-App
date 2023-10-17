@@ -535,14 +535,16 @@ body {
         position: absolute;
         margin-right: 410px;
         background-color: transparent;
-        filter: drop-shadow(0 0 80px #555); }
+        filter: drop-shadow(0 0 80px #555);
+        z-index: -999; }
       body .header .img2 {
         height: 200px;
         margin-top: 10px;
         position: absolute;
         margin-left: 410px;
         background-color: transparent;
-        filter: drop-shadow(0 0 80px #555); }
+        filter: drop-shadow(0 0 80px #555);
+        z-index: -999; }
       body .header .header-bottom {
         display: flex;
         justify-content: center;
@@ -736,7 +738,7 @@ body {
           font-weight: 900;
           background-color: transparent;
           font-size: 40px; } }
-@media (min-width: 340px) and (max-width: 375px) {
+@media (min-width: 321px) and (max-width: 399px) {
   body {
     height: 100%;
     display: flex;
@@ -895,14 +897,16 @@ body {
         position: absolute;
         margin-right: 440px;
         background-color: transparent;
-        filter: drop-shadow(0 0 80px #555); }
+        filter: drop-shadow(0 0 80px #555);
+        z-index: -999; }
       body .header .img2 {
         height: 180px;
         margin-top: 10px;
         position: absolute;
         margin-left: 440px;
         background-color: transparent;
-        filter: drop-shadow(0 0 80px #555); }
+        filter: drop-shadow(0 0 80px #555);
+        z-index: -999; }
       body .header .header-bottom {
         display: flex;
         justify-content: center;
@@ -1095,7 +1099,7 @@ body {
           font-weight: 900;
           background-color: transparent;
           font-size: 40px; } }
-@media (min-width: 400px) and (max-width: 425px) {
+@media (min-width: 400px) and (max-width: 567px) {
   body {
     height: 100%;
     display: flex;
@@ -1254,14 +1258,16 @@ body {
         position: absolute;
         margin-right: 490px;
         background-color: transparent;
-        filter: drop-shadow(0 0 80px #555); }
+        filter: drop-shadow(0 0 80px #555);
+        z-index: -999; }
       body .header .img2 {
         height: 200px;
         margin-top: 10px;
         position: absolute;
         margin-left: 490px;
         background-color: transparent;
-        filter: drop-shadow(0 0 80px #555); }
+        filter: drop-shadow(0 0 80px #555);
+        z-index: -999; }
       body .header .header-bottom {
         display: flex;
         justify-content: center;
@@ -1454,7 +1460,7 @@ body {
           font-weight: 900;
           background-color: transparent;
           font-size: 20px; } }
-@media (min-width: 568px) and (max-width: 768px) {
+@media (min-width: 568px) and (max-width: 824px) {
   body {
     height: 100%;
     display: flex;
@@ -1813,7 +1819,7 @@ body {
           font-weight: 900;
           background-color: transparent;
           font-size: 40px; } }
-@media (min-width: 824px) and (max-width: 1024px) {
+@media (min-width: 824px) and (max-width: 1239px) {
   body {
     height: 100%;
     display: flex;
